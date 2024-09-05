@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakan Farhouda</h1>
-<h3 align="center">A Passionate Senior Software Developer</h3>
+<h3 align="center">A Passionate Lead Software Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakanhf" alt="rakanhf" /></a> </p>
 
