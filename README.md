@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rakan Farhouda</h1>
 <h3 align="center">A Passionate Lead Software Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://rakan.com.tr](https://rakan.com.tr)
-
 - 💬 Ask me about **Django, Python, AWS, GCP**
 
 - 📫 How to reach me **hello@rakan.com.tr**
